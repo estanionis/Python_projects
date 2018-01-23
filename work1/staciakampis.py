@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 '''
-Programa skaičiuojanti stačiakampio plotą
+Programa skaiciuojanti keturkampio plota
 '''
 REIKSME = input('Iveskite pirmos krastines ilgi = ')
 REIKSME2 = input('Iveskite antros krastines ilgi = ')
