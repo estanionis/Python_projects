@@ -3,7 +3,9 @@
 Programa suskaiciuojanti paprastuosius skaicius
 '''
 SKAICIUS = input('Iveskite skaiciu = ')
-while SKAICIUS != 0:
-    SKAICIUS = int(SKAICIUS) - 1
-if SKAICIUS
+DALMUO = 1
+while DALMUO <= int(SKAICIUS):
+    if SKAICIUS % DALMUO == 0:
+        print(DALMUO)
+    DALMUO = DALMUO + 1
 input('Press enter to close program ')
