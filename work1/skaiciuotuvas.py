@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 '''
-Programa skaičiuojanti skaičius
+Programa skaiciuojanti dvieju zenklu suma
 '''
 SKAICIUS = input('Iveskite pirma skaiciu ')
 SKAICIUS1 = input('Iveskite antra skaiciu ')
