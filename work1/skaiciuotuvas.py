@@ -9,4 +9,3 @@ if str(ZENKLAS) == '+':
     print('Suma lygi =', float(SKAICIUS) + float(SKAICIUS1))
 elif str(ZENKLAS) == '-':
     print('Suma lygi =', float(SKAICIUS) - float(SKAICIUS1))
-input('Press enter to close program ')
