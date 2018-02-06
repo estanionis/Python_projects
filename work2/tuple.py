@@ -8,4 +8,4 @@ for ITEM in TUPLE1:
     if not isinstance(ITEM, int):
         NEW_TUPLE += (ITEM, )
 print(TUPLE1, '\n', NEW_TUPLE)
-input('Press enter to close program')
+
