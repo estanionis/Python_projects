@@ -22,4 +22,3 @@ if len(KLAUSIMAS3) == 6:
 else:
     print('Atsakete neteisingai')
 print('Is viso teisingai atsakete', i)
-input('Press enter to close program')
