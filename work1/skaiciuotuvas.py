@@ -1,4 +1,7 @@
 #! /usr/bin/env python3
+"""
+Programa skaiciuotuvas
+"""
 SKAICIUS = input('Iveskite pirma skaiciu ')
 SKAICIUS1 = input('Iveskite antra skaiciu ')
 ZENKLAS = input('Iveskite zenkla ')
