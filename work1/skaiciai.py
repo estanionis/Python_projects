@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 '''
 Programa suskaiciuojanti paprastuosius skaicius
 '''
@@ -8,4 +8,3 @@ while DALMUO <= int(SKAICIUS):
     if int(SKAICIUS) % int(DALMUO) == 0:
         print(DALMUO)
     DALMUO = DALMUO + 1
-
