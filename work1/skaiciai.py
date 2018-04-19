@@ -8,3 +8,4 @@ while DALMUO <= int(SKAICIUS):
     if int(SKAICIUS) % int(DALMUO) == 0:
         print(DALMUO)
     DALMUO = DALMUO + 1
+    
